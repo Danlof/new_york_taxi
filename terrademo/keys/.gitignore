@@ -38,3 +38,4 @@ terraform.rc
 
 *.json
 .taxi/
+home_work/ny_taxi_postgres_data
